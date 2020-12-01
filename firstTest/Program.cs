@@ -85,9 +85,6 @@ namespace firstTest
         {
             Console.WriteLine("New Method");
         }
-        //jivj
-        //jiefji
-        
     }
 
     class Program
