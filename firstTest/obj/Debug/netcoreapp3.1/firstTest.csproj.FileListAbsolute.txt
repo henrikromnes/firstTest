@@ -1,0 +1,13 @@
+C:\Users\Henrik\Desktop\C#\firstTest\firstTest\bin\Debug\netcoreapp3.1\firstTest.exe
+C:\Users\Henrik\Desktop\C#\firstTest\firstTest\bin\Debug\netcoreapp3.1\firstTest.deps.json
+C:\Users\Henrik\Desktop\C#\firstTest\firstTest\bin\Debug\netcoreapp3.1\firstTest.runtimeconfig.json
+C:\Users\Henrik\Desktop\C#\firstTest\firstTest\bin\Debug\netcoreapp3.1\firstTest.runtimeconfig.dev.json
+C:\Users\Henrik\Desktop\C#\firstTest\firstTest\bin\Debug\netcoreapp3.1\firstTest.dll
+C:\Users\Henrik\Desktop\C#\firstTest\firstTest\bin\Debug\netcoreapp3.1\firstTest.pdb
+C:\Users\Henrik\Desktop\C#\firstTest\firstTest\obj\Debug\netcoreapp3.1\firstTest.csprojAssemblyReference.cache
+C:\Users\Henrik\Desktop\C#\firstTest\firstTest\obj\Debug\netcoreapp3.1\firstTest.AssemblyInfoInputs.cache
+C:\Users\Henrik\Desktop\C#\firstTest\firstTest\obj\Debug\netcoreapp3.1\firstTest.AssemblyInfo.cs
+C:\Users\Henrik\Desktop\C#\firstTest\firstTest\obj\Debug\netcoreapp3.1\firstTest.csproj.CoreCompileInputs.cache
+C:\Users\Henrik\Desktop\C#\firstTest\firstTest\obj\Debug\netcoreapp3.1\firstTest.dll
+C:\Users\Henrik\Desktop\C#\firstTest\firstTest\obj\Debug\netcoreapp3.1\firstTest.pdb
+C:\Users\Henrik\Desktop\C#\firstTest\firstTest\obj\Debug\netcoreapp3.1\firstTest.genruntimeconfig.cache
