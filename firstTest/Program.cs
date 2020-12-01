@@ -85,9 +85,12 @@ namespace firstTest
         {
             Console.WriteLine("New Method");
         }
-        //jivj
-        //jiefji
-        
+
+        public void newMethod2()
+        {
+            Console.WriteLine("New Method");
+        }
+
     }
 
     class Program
