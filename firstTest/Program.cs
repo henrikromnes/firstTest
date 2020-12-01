@@ -3,7 +3,6 @@ using System.Collections.Generic;
 
 namespace firstTest
 {   
-    //grrg
     public enum Color
     {
         Blue, Gray, Green, Red, White
@@ -82,6 +81,11 @@ namespace firstTest
             deck.Add(new Card(colFig1, colFig2,0));
         }
 
+        public void newMethod()
+        {
+            Console.WriteLine("New Method");
+        }
+        //jivj
         
     }
 
