@@ -2,12 +2,7 @@
 using System.Collections.Generic;
 
 namespace firstTest
-<<<<<<< HEAD
-{
-    //rnd
-=======
-{    
->>>>>>> caef9c4631537d73cd42f8801e877efea35719c0
+{   
     public enum Color
     {
         Blue, Gray, Green, Red, White
