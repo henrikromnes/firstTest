@@ -85,9 +85,16 @@ namespace firstTest
         {
             Console.WriteLine("New Method");
         }
+<<<<<<< HEAD
         public void newMethod2()
         {
             Console.WriteLine("New Method2");
+=======
+
+        public void newMethod2()
+        {
+            Console.WriteLine("New Method");
+>>>>>>> createCardSecondMethod
         }
 
     }
