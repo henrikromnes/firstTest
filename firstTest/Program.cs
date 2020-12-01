@@ -81,6 +81,11 @@ namespace firstTest
             deck.Add(new Card(colFig1, colFig2,0));
         }
 
+        public void newMethod()
+        {
+            Console.WriteLine("New Method");
+        }
+
         
     }
 
