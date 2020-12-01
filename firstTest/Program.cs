@@ -85,6 +85,11 @@ namespace firstTest
         {
             Console.WriteLine("New Method");
         }
+        public void newMethod2()
+        {
+            Console.WriteLine("New Method2");
+        }
+
     }
 
     class Program
