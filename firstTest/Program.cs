@@ -41,9 +41,9 @@ namespace firstTest
     class Game
     {
         
-        public static List<ColoredFigure> fasit = new List<ColoredFigure>();
-        public static List<Card> deck = new List<Card>();
-        public static void makeFasit()
+        public List<ColoredFigure> fasit = new List<ColoredFigure>();
+        public List<Card> deck = new List<Card>();
+        public void makeFasit()
         {
             for (int i = 0; i < 5; i++)
             {
@@ -51,7 +51,7 @@ namespace firstTest
             }
         }
 
-        public static void makeColoredFigureType1()
+        public void makeColoredFigureType1()
         {
             var rand = new Random();
 
@@ -80,20 +80,23 @@ namespace firstTest
 
             deck.Add(new Card(colFig1, colFig2,0));
         }
+
+        
     }
 
     class Program
     {
         static void Main(string[] args)
         {
-            Game.makeFasit();
+            Game g = new Game();
+            g.makeFasit();
             
 
             for (int i = 0; i < 10; i++)
             {
-                Game.makeColoredFigureType1();
+                g.makeColoredFigureType1();
                 Console.WriteLine("{0} {1} {2} {3} {4}, {5} {6} {7}", "Card",i + 1,
-                ": Figure 1 -", Game.deck[i].ColFig1.C, Game.deck[i].ColFig1.F, "Figure 2 -", Game.deck[i].ColFig2.C, Game.deck[i].ColFig2.F);
+                ": Figure 1 -", g.deck[i].ColFig1.C, g.deck[i].ColFig1.F, "Figure 2 -", g.deck[i].ColFig2.C, g.deck[i].ColFig2.F);
             }
            
 
