@@ -3,6 +3,7 @@ using System.Collections.Generic;
 
 namespace firstTest
 {
+    //random comment
     public enum Color
     {
         Blue, Gray, Green, Red, White
